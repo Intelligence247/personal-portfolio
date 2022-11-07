@@ -1,5 +1,5 @@
-# Product Landing
-*An implementation of Product-Landing page clone with html and css*
+# Personal-portfolio
+*An implementation of personal-portfolio page clone with html and css*
 ## Prequisite
 - Your browser version should be up to date for better experience
 ## Getting Started
